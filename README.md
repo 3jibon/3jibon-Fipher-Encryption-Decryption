@@ -31,5 +31,5 @@ The author assumes **no liability** for misuse or damages. Always comply with lo
 
 1. **Clone** the repo  
    ```bash
-   git clone https://github.com/3jibon/Fipher.git
+   git clone https://github.com/3jibon/Fipher-Encryption-Decryption.git
    cd Fipher
