@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
-![Last Commit](https://img.shields.io/github/last-commit/3jibon/Fipher)
 
 > A simple Python CLI tool to securely encrypt/decrypt messages and files with password-derived keys.
 
